@@ -1,1 +1,2 @@
 # Домашнее задание к занятию «2.1. Тестирование веб-интерфейсов»
+[![Build status](https://ci.appveyor.com/api/projects/status/ba5woym3ybux7ons?svg=true)](https://ci.appveyor.com/project/Denis-QAMID/test-web-interface)
